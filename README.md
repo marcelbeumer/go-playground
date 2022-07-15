@@ -4,6 +4,7 @@ Toying around with Go for my own reference.
 
 - [streamproc](./streamproc) stream processing exercise and kubernetes local dev setup.
 - [gochat](./gochat) chat application using WebSockets, gRPC and a terminal UI.
+- [packex](./packex) go package explorer for integration with third-party tools like neovim.
 - [typednil](./typednil) understanding the infamous typed nils.
 - [typeswitch](./typeswitch) playing with typeswitches.
 - [websockets](./websockets) hello-worldish WebSockets.
